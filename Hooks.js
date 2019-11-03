@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 
 function Hooks (){
-
   const [text,setText] = useState('Login');
   function buttonClick()
   {
@@ -14,7 +13,6 @@ function Hooks (){
       </div>
     );
 }
-
 export default Hooks;
 
 

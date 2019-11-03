@@ -14,7 +14,6 @@ function CustomHookState (){
     return (
       <div className="App">
        <button onClick={buttonClick}>{text}</button>
-        
       </div>
     );
 }
